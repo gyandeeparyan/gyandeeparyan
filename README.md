@@ -11,5 +11,5 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1v39V3b2tPAAgJPSPKnr5H1dNDosWhjAe](https://drive.google.com/drive/folders/1v39V3b2tPAAgJPSPKnr5H1dNDosWhjAe)
 
-- ⚡ Fun fact **I can stay calm & stable in crisis.**
+- ⚡ Fun fact **I love reading history & experimenting with power of my thoughts**
 
