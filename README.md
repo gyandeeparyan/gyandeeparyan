@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gyandeep Aryan</h1>
-- 🔭 I’m currently working on friends' e-commerce app for his new smart eyeware brand .
+<h1 align="center">Namaste 👋, I'm Gyandeep Aryan</h1>
 
 - 👨‍💻 All of my projects are available at [https://gyandeeparyan-dev.netlify.app/](https://gyandeeparyan-dev.netlify.app/)
 
