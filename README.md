@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Javascript , React.js , Next.js**
 
-- 📫 How to reach me **gyandeeparyan.dev@gmail.com or +917004669519**
+- 📫 How to reach me **gyandeeparyan.dev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1v39V3b2tPAAgJPSPKnr5H1dNDosWhjAe](https://drive.google.com/drive/folders/1v39V3b2tPAAgJPSPKnr5H1dNDosWhjAe)
 
