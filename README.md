@@ -1,14 +1,1 @@
-<h1 align="center">Namaste 👋, I'm Gyandeep Aryan</h1>
-
-- 👨‍💻 All of my projects are available at [https://gyandeeparyan-dev.netlify.app/](https://gyandeeparyan-dev.netlify.app/)
-
-- 📝 I regularly write articles on [https://hashnode.com/@gyandeeparyan](https://hashnode.com/@gyandeeparyan)
-
-- 💬 Ask me about **Javascript , React.js , Next.js**
-
-- 📫 How to reach me **gyandeeparyan.dev@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1v39V3b2tPAAgJPSPKnr5H1dNDosWhjAe](https://drive.google.com/drive/folders/1v39V3b2tPAAgJPSPKnr5H1dNDosWhjAe)
-
-- ⚡ Fun fact **I love reading history & experimenting with power of my thoughts**
-
+<a href="https://bentohub.netlify.app/" target="_blank"><img src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/67a6f6a5000681f4c600/preview?project=667d35ca0017fb21fc6c" /></a>
